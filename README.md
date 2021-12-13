@@ -1,2 +1,1 @@
-# README.md
-README
+# Welcome to RuneCraft Network!
