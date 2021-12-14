@@ -14,3 +14,6 @@ A clear question for us to answer.
 # Additional info:
 [optional] Any additional info we need to know such as screenshots or a short video. (please send links to the attachments!)
 **'...'**
+
+
+*Please replace all the '...' with your answer!*
