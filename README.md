@@ -1,10 +1,15 @@
 <div align="center">
   <p>
-    <a href="https://dsc.gg/runecraft"><img src="https://cdn.luckiecrab.nl/runecraftimg.png"> RuneCraft Network</a>
+    <a href="https://dsc.gg/runecraft"><img src="https://cdn.luckiecrab.nl/runecraftimg.png"></a>
   </p>
   
   <br />
   <p>
     <a href="https://dsc.gg/runecraft"><img src="https://img.shields.io/discord/809479699663290380?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
+    <a href="https://dsc.gg/runecraft">IP: play.runecraft.eu</a>
+    <a href="https://store.runecraft.eu">Store: store.runecraft.eu</a> 
   </p>
 </div>
+
+# About
+RuneCraft Network is an international Minecraft community with a Discord and Minecraft server. We have different gamemodes such as KitPVP 
