@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://dsc.gg/runecraft"><img src="https://cdn.luckiecrab.nl/runecraftimg.png"></a>
+    <a href="https://dsc.gg/runecraft"><img src="https://cdn.luckiecrab.nl/runecraftimg.png"> RuneCraft Network</a>
   </p>
   
   <br />
