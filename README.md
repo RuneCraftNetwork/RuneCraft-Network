@@ -12,4 +12,8 @@
 </div>
 
 # About
-RuneCraft Network is an international Minecraft community with a Discord and Minecraft server. We have different gamemodes such as KitPVP 
+RuneCraft Network is an international Minecraft community with a Discord and Minecraft server. We have different gamemodes such as KitPVP, parkour, manhunt and more! Join our Discord server, start playing on our Minecraft server and check out our store today!
+
+<div align="center">
+</div>
+  
