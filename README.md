@@ -6,8 +6,8 @@
   <br />
   <p>
     <a href="https://dsc.gg/runecraft"><img src="https://img.shields.io/discord/809479699663290380?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-    <a href="https://dsc.gg/runecraft">IP: play.runecraft.eu</a>
-    <a href="https://store.runecraft.eu">Store: store.runecraft.eu</a> 
+    <a href="https://dsc.gg/runecraft"><button name="ip">IP: play.runecraft.eu</button></a>
+    <a href="https://store.runecraft.eu"><button name="store">Store: store.runecraft.eu</button></a> 
   </p>
 </div>
 
